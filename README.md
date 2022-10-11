@@ -1,1 +1,1 @@
-(h1 align = 'center')PySimpleGui(/h1)
+PySimpleGui
