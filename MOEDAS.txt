@@ -1,0 +1,6 @@
+moedas = [
+    'USD','EUR','ETH','GBP','BTC','CAD','AED','ARS','AUD',
+    'BOB','CHF','CLP','CNY','COP','DKK','DOGE','HKD','ILS',
+    'INR','JPY','LTC','MXN','NOK','NZD','PEN','PLN','PYG','RUB',
+    'SAR','SEK','SGD','THB','TRY','TWD','UYU','XRP','ZAR'
+]
