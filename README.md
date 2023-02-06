@@ -10,3 +10,7 @@
 
 
 </div>
+https://sites.google.com/view/projetopythonparatodos/livros?authuser=0
+
+
+https://omundoeoseular.com.br/basico-thank-you/
